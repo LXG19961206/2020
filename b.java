@@ -1,0 +1,1 @@
+system.print('hello world')
